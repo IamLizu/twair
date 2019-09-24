@@ -4,10 +4,10 @@ import tweepy
 import sys
 
 # twiiter application details
-cKey = 'GSzQ8YmJeKWbcil1uKlA3jKMK'
-cSecret = 'yRBxQDfwVZHixfBx5MUSyOdw6pzKCPkyzM4camaejeg2L9lgq0'
-aToken = '1482468246-AtHZS5XV2MLw242xSecW9S9nIFms90oa1SqIc52'
-aTokenSecret = 'JGiQoBsj5D8j0InFT9VS60fS5NAD8LUWEN7wgotbaaLKz'
+cKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
+cSecret = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
+aToken = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
+aTokenSecret = 'XXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # authentication
 auth = tweepy.OAuthHandler(cKey, cSecret)
